@@ -1,6 +1,6 @@
 {
   "name": "mse-stream-grabber",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A lightweight convenience wrapper for hls.js",
   "main": "index.js",
   "scripts": {
